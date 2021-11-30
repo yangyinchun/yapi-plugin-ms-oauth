@@ -1,0 +1,24 @@
+{
+  "name": "yapi-plugin-ms-oauth",
+  "version": "1.0.0",
+  "description": "YApi可视化接口管理平台Microsoft Oauth2.0登录插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangyinchun/yapi-plugin-ms-oauth.git"
+  },
+  "author": "yangyinchun@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yangyinchun/yapi-plugin-ms-oauth/issues"
+  },
+  "homepage": "https://github.com/yangyinchun/yapi-plugin-ms-oauth#readme",
+  "dependencies": {
+    "request": "^2.88.2",
+    "jwt-decode": "3.1.2"
+  }
+}
